@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OvvHILItsX8cWmtvm+q1z6RDQ6pFzl5W0Wny6Bdh3eK6AMzTfM3gtxiGIK+D30FTSHoUTtL8X4eD8wizEao+fg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\C#\\College\\wpf\\ImageSendApi\\ImageSendApi\\ImageSendApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olegn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
