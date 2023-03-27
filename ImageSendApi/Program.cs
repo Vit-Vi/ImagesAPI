@@ -38,7 +38,7 @@ app.MapGet("/getImage", async (HttpContext context,string imgName) =>
     string? fileName=Directory.GetFiles(dataPath).Where(f => f == dataPath + imgName).FirstOrDefault();
     if (fileName == null)
     {
-        return;
+        return ;
     }
 
     context.Response.Headers.ContentDisposition = $"attachment; filename={imgName}";

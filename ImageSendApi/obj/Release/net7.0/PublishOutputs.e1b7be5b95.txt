@@ -1,0 +1,7 @@
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.exe
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.dll
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.deps.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.runtimeconfig.json
+E:\Projects\C#\College\wpf\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.pdb
