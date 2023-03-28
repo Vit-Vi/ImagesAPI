@@ -1,0 +1,9 @@
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.exe
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.dll
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.deps.json
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.runtimeconfig.json
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\ImageSendApi.pdb
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\Projects\CloudTechnologies\ImageSendApi\ImageSendApi\obj\Release\net7.0\PubTmp\Out\Telegram.Bot.dll

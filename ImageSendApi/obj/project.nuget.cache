@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OvvHILItsX8cWmtvm+q1z6RDQ6pFzl5W0Wny6Bdh3eK6AMzTfM3gtxiGIK+D30FTSHoUTtL8X4eD8wizEao+fg==",
+  "dgSpecHash": "CmdUV3UzGlkbibM1BatuBSC3zh1MOIGrJ4GV+rXU2qEp4hD9TO8yParIVXBAkWLvkxlTCkUjvln+8wS6EtegNQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\C#\\College\\wpf\\ImageSendApi\\ImageSendApi\\ImageSendApi.csproj",
+  "projectFilePath": "E:\\Projects\\CloudTechnologies\\ImageSendApi\\ImageSendApi\\ImageSendApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\olegn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\olegn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\olegn\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\olegn\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
   ],
   "logs": []
 }
